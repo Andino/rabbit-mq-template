@@ -1,0 +1,23 @@
+{
+  "name": "rabbit-mq-template",
+  "version": "1.0.0",
+  "description": "rabbit mq example with node and docker",
+  "main": "producer.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andino/rabbit-mq-template.git"
+  },
+  "author": "Diego Andino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andino/rabbit-mq-template/issues"
+  },
+  "homepage": "https://github.com/Andino/rabbit-mq-template#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
